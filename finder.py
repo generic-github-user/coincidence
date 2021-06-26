@@ -15,3 +15,8 @@ possible_functions = [
     # np.tan,
     # np.round
 ]
+reducing_functions = [
+    np.sum,
+    np.product,
+    # np.mean,
+]
